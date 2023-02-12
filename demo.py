@@ -1,0 +1,1 @@
+print("Demo frpm exams")    
